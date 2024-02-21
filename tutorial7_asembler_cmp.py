@@ -84,12 +84,12 @@ print(f"time spent for MEGAHIT {end_time - start_time}")
 """## Assemble: idba_ud"""
 
 # Commented out IPython magic to ensure Python compatibility.
-# IDBA-UD 다운로드 및 압축 해제
+# IDBA-UD install
 !wget https://github.com/loneknightpy/idba/archive/1.1.3.tar.gz
 !tar -xzf 1.1.3.tar.gz
 # %cd idba-1.1.3
 
-# IDBA-UD 컴파일
+# IDBA-UD compile
 !./build.sh
 # %cd bin
 
