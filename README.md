@@ -13,3 +13,7 @@ Metagenome De Novo Assembly and Binning - KBase
 * Extract Individual Assemblies  
 * Annotate Genomes  
 * Taxonomic Classification of MAGs  
+
+
+This tutorial content is based on KBase (https://kbase.us/n/33233/606)
+You can see and test in KBase web platform with above link.
